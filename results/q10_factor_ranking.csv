@@ -1,0 +1,13 @@
+factor,highest_group_pct,lowest_group_pct,gap_pp
+lead_time,33.0,4.65,28.36
+patient_history,32.12,18.85,13.27
+neighbourhood,28.92,15.84,13.08
+age_group,26.64,15.04,11.61
+sms_received,27.57,16.7,10.88
+scholarship,23.74,19.8,3.93
+hypertension,20.9,17.3,3.6
+diabetes,20.36,18.0,2.36
+handicap,20.23,18.09,2.14
+weekday,21.23,19.35,1.88
+gender,20.31,19.96,0.35
+alcoholism,20.19,20.15,0.04

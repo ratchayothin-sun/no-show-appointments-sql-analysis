@@ -1,0 +1,13 @@
+factor,value,appointments,no_show_pct
+scholarship,0,99660,19.8
+scholarship,1,10861,23.74
+hypertension,0,88720,20.9
+hypertension,1,21801,17.3
+diabetes,0,102578,20.36
+diabetes,1,7943,18.0
+alcoholism,0,107161,20.19
+alcoholism,1,3360,20.15
+handicap,0,108282,20.23
+handicap,1,2239,18.09
+gender,F,71836,20.31
+gender,M,38685,19.96

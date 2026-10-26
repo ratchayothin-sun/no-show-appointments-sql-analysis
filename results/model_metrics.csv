@@ -1,0 +1,4 @@
+model,test_auc
+Guess the base rate (no information),0.5
+Lead time only,0.683
+All factors,0.722
